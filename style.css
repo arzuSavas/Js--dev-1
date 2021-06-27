@@ -1,0 +1,10 @@
+.jumbotron{
+ background-color :#AA2B1D;  
+ text-align: center;
+}
+#myclock
+{ 
+    font-size: 60px;
+    font-family: Orbitron;
+    text-align: center;
+}
