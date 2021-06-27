@@ -1,1 +1,2 @@
-# Js--dev-1
+# Js-odev-1
+..............javaScript ile dijital saat
